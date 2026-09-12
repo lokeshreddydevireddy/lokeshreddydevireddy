@@ -15,9 +15,6 @@ Building applications. Working with cloud. Growing through hands-on engineering.
 
 <br>
 
-<a href="https://github.com/lokeshreddydevireddy">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
 &nbsp;
 <a href="https://www.linkedin.com/in/lokeshreddydevireddy/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
