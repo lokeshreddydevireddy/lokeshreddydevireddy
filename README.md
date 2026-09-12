@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Lokesh Reddy Devireddy 👋
+# Hi, I'm Lokesh Reddy Devireddy 
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=550&lines=Software+Developer+%26+Cloud+Enthusiast;Building+Full-Stack+Web+Applications;Hands-on+with+AWS%2C+Azure+%26+Linux;Focused+on+Reliable+Engineering" alt="Typing SVG" />
