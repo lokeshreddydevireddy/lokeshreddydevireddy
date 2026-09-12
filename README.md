@@ -1,19 +1,42 @@
+<!-- ========================= HEADER ========================= -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=LOKESH%20DEVIREDDY&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn"
+    alt="Lokesh Devireddy profile header"
+  />
+</p>
+
 <div align="center">
 
-# Hi, I'm Lokesh Devireddy
+## Cloud Engineering Intern | Software Development | AWS
 
-### Cloud Engineering Intern | Software Development | AWS
-
-Building applications, working with AWS infrastructure, and strengthening my DevOps skills through hands-on development.
-
-[![GitHub](https://img.shields.io/badge/GitHub-lokeshreddydevireddy-181717?style=for-the-badge&logo=github)](https://github.com/lokeshreddydevireddy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lokesh%20Devireddy-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lokeshreddydevireddy/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-lokeshreddy.me-111111?style=for-the-badge&logo=vercel)](https://lokeshreddy.me)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mailtolokeshdevireddy@gmail.com)
+Building applications. Working with cloud. Growing through hands-on engineering.
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&center=true&vCenter=true&width=700&lines=Cloud+Engineering+Intern;AWS+%7C+Linux+%7C+Git+%7C+DevOps;Software+%26+Full+Stack+Development;Building+and+Learning+Through+Real+Projects" alt="Typing animation describing Lokesh's technical focus" />
+<a href="https://github.com/lokeshreddydevireddy">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/lokeshreddydevireddy/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://lokeshreddy.me">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="mailto:mailtolokeshdevireddy@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br><br>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&center=true&vCenter=true&width=750&lines=Cloud+Engineering+Intern;AWS+%7C+Linux+%7C+Git+%7C+DevOps;Software+%26+Full+Stack+Development;Building+and+Learning+Through+Real+Projects"
+  alt="Typing animation describing Lokesh's technical focus"
+/>
 
 </div>
 
@@ -53,6 +76,7 @@ I'm a final-year Information Technology student at Dhanekula Institute of Engine
 ## Experience
 
 ### Cloud Engineering Intern
+
 **Edubot Software & Services**  
 **May 2026 – Present**
 
@@ -85,7 +109,9 @@ A cloud file-storage and sharing platform inspired by Google Drive, designed aro
 
 **Focus:** File management · Document storage · File sharing
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://vaultifyy.tech/)
+<a href="https://vaultifyy.tech/">
+  <img src="https://img.shields.io/badge/Live%20Demo-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Vaultfy live demo" />
+</a>
 
 ---
 
@@ -93,23 +119,27 @@ A cloud file-storage and sharing platform inspired by Google Drive, designed aro
 
 A practical AWS project focused on hosting static websites and configuring cloud access using AWS services.
 
-**Stack:** AWS S3 · IAM · Route 53 · HTML · CSS
+**Stack:** AWS S3 · IAM · HTML · CSS
 
 **Focus:** Static hosting · Cloud configuration · Access management · Deployment
 
-[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/lokeshreddydevireddy/aws-s3-static-website)
+<a href="https://github.com/lokeshreddydevireddy/aws-s3-static-website">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="AWS Static Website Hosting repository" />
+</a>
 
 ---
 
 ### Cloud Web Application – Module 2
 
-A cloud-project repository containing Linux workspace setup and project scripts for a cloud-hosted web application.
+A cloud-focused project containing Linux workspace setup and project scripts for a cloud-hosted web application.
 
 **Stack:** Linux · Shell Scripting · Git · Cloud Development
 
-**Focus:** Linux setup · Project organization · Shell scripting · Cloud project workflow
+**Focus:** Linux setup · Project organization · Shell scripting · Cloud workflow
 
-[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/lokeshreddydevireddy/cloud-web-app)
+<a href="https://github.com/lokeshreddydevireddy/cloud-web-app">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Cloud Web Application repository" />
+</a>
 
 ---
 
@@ -117,13 +147,17 @@ A cloud-project repository containing Linux workspace setup and project scripts 
 
 A modern personal portfolio website built to present my experience, technical skills, and projects.
 
-**Stack:** Next.js · React · TypeScript · Tailwind CSS · GSAP
+**Stack:** Next.js · React · TypeScript · Tailwind CSS
 
 **Focus:** Frontend development · Responsive UI · Animation · Personal branding
 
-[![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/lokeshreddydevireddy/lokesh-portfolio)
-
-[![Live Portfolio](https://img.shields.io/badge/Visit%20Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://lokeshreddy.me)
+<a href="https://github.com/lokeshreddydevireddy/lokesh-portfolio">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Personal portfolio repository" />
+</a>
+&nbsp;
+<a href="https://lokeshreddy.me">
+  <img src="https://img.shields.io/badge/Visit%20Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Personal portfolio website" />
+</a>
 
 ---
 
@@ -151,7 +185,7 @@ My current hands-on cloud work is focused on understanding how applications, inf
 - Backend and full-stack development
 - Networking and cloud security fundamentals
 
-
+---
 
 ## Career Interests
 
@@ -165,13 +199,18 @@ I'm interested in roles where I can work on real applications, backend systems, 
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-lokeshreddydevireddy-181717?style=for-the-badge&logo=github)](https://github.com/lokeshreddydevireddy)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lokesh%20Devireddy-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lokeshreddydevireddy/)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-lokeshreddy.me-111111?style=for-the-badge&logo=vercel)](https://lokeshreddy.me)
-
-[![Email](https://img.shields.io/badge/Email-mailtolokeshdevireddy%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mailtolokeshdevireddy@gmail.com)
+&nbsp;
+<a href="https://www.linkedin.com/in/lokeshreddydevireddy/">
+  <img src="https://img.shields.io/badge/LinkedIn-Lokesh%20Devireddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+</a>
+&nbsp;
+<a href="https://lokeshreddy.me">
+  <img src="https://img.shields.io/badge/Portfolio-lokeshreddy.me-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio website" />
+</a>
+&nbsp;
+<a href="mailto:mailtolokeshdevireddy@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact" />
+</a>
 
 </div>
 
@@ -183,6 +222,9 @@ I'm interested in roles where I can work on real applications, backend systems, 
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer" alt="Decorative footer wave" />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"
+  alt="Decorative footer wave"
+/>
 
 </div>
