@@ -151,23 +151,7 @@ My current hands-on cloud work is focused on understanding how applications, inf
 - Backend and full-stack development
 - Networking and cloud security fundamentals
 
----
 
-## GitHub
-
-<div align="center">
-
-[![GitHub Profile](https://img.shields.io/badge/View%20GitHub%20Profile-181717?style=for-the-badge&logo=github)](https://github.com/lokeshreddydevireddy)
-
-[![Repositories](https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github)](https://github.com/lokeshreddydevireddy?tab=repositories)
-
-[![Contributions](https://img.shields.io/badge/View%20Contributions-2EA44F?style=for-the-badge&logo=github)](https://github.com/lokeshreddydevireddy)
-
-</div>
-
-> GitHub contribution activity is available directly on my profile and reflects my actual development activity.
-
----
 
 ## Career Interests
 
